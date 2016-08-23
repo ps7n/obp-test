@@ -19,7 +19,7 @@ Running the tool:
 4. When asked insert the:
 	Resource url you want to test 
 	e.g. 
-	http://localhost:8080/obp/v2.1.0/banks/danskebank
+	http://localhost:8080/obp/v2.1.0/banks/bigbank
 	
 	Message that should be returned to the 'North' side
 	e.g.

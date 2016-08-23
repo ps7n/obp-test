@@ -23,5 +23,5 @@ Running the tool:
 	
 	Message that should be returned to the 'North' side
 	e.g.
-	{  "id" : "danskebank",  "short_name" : "danskebank",  "full_name" : "Danske Bank",  "logo" : "danskebank.png",  "website" : "www.danskebank.dk"}
+	{  "id" : "bank",  "short_name" : "bigbank",  "full_name" : "Big Bank",  "logo" : "bigbank.png",  "website" : "www.bigbank.com"}
 	
